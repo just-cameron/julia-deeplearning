@@ -590,10 +590,10 @@ uuid = "e2ba6199-217a-4e67-a87a-7c52f15ade04"
 version = "0.1.11"
 
 [[deps.ExpressionExplorer]]
-git-tree-sha1 = "678f8b7cd246ed441d29ca42a99f5f138be2ecac"
+git-tree-sha1 = "fdcc9d4a253e0041d37c95487f9ae027c3ec002d"
 registries = "General"
 uuid = "21656369-7473-754a-2065-74616d696c43"
-version = "1.1.5"
+version = "1.1.6"
 
 [[deps.ExproniconLite]]
 git-tree-sha1 = "c13f0b150373771b0fdc1713c97860f8df12e6c2"
@@ -2166,10 +2166,10 @@ version = "0.1.0"
 
 [[deps.RecipesBase]]
 deps = ["PrecompileTools"]
-git-tree-sha1 = "5c3d09cc4f31f5fc6af001c250bf1278733100ff"
+git-tree-sha1 = "0c0dcffc464cda2ff33fc8ffc1dd1bdd53cd98be"
 registries = "General"
 uuid = "3cdcf5f2-1ef4-517c-9805-6587b60abb01"
-version = "1.3.4"
+version = "1.4.0"
 
 [[deps.RecipesPipeline]]
 deps = ["Dates", "NaNMath", "PlotUtils", "PrecompileTools", "RecipesBase"]
