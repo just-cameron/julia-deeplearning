@@ -773,10 +773,10 @@ version = "3.5.1+0"
 
 [[deps.GPUArrays]]
 deps = ["Adapt", "GPUArraysCore", "KernelAbstractions", "LLVM", "LinearAlgebra", "Printf", "Random", "Reexport", "ScopedValues", "Serialization", "SparseArrays", "Statistics"]
-git-tree-sha1 = "adddc80fa93244e40e8f5f8cb3af53a0ddabd80c"
+git-tree-sha1 = "574e443e2545f8622b716676c9358ca8a7ea57b4"
 registries = "General"
 uuid = "0c68f7d7-f131-5f86-a1c3-88cf8149b2d7"
-version = "11.5.15"
+version = "11.5.16"
 weakdeps = ["JLD2"]
 
     [deps.GPUArrays.extensions]
@@ -1147,10 +1147,10 @@ version = "3.2.0+1"
 
 [[deps.JuliaInterpreter]]
 deps = ["CodeTracking", "InteractiveUtils", "Random"]
-git-tree-sha1 = "24a00d415eac260385b0f260340457664a7b2bca"
+git-tree-sha1 = "210525997a2434caa497655f86d151b1bcad0dce"
 registries = "General"
 uuid = "aa1ae85d-cabe-5617-a682-6adf51b2e16a"
-version = "0.11.5"
+version = "0.12.0"
 
 [[deps.JuliaNVTXCallbacks_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
@@ -1438,10 +1438,10 @@ version = "1.2.0"
 
 [[deps.LoweredCodeUtils]]
 deps = ["CodeTracking", "Compiler", "JuliaInterpreter"]
-git-tree-sha1 = "e16fd69604bef06cb3fe9da09b315005c9c34564"
+git-tree-sha1 = "497f602dc6d4d894e000ad6ee13b6dfd3c0be94a"
 registries = "General"
 uuid = "6f1432cf-f94c-5a45-995e-cdbf5db27b0b"
-version = "3.9.0"
+version = "3.10.0"
 
 [[deps.MAT]]
 deps = ["CodecZlib", "Dates", "HDF5", "OrderedCollections", "PooledArrays", "SparseArrays", "StringEncodings", "Tables"]
@@ -1779,10 +1779,10 @@ version = "0.8.7+0"
 
 [[deps.OpenMPI_jll]]
 deps = ["Artifacts", "CompilerSupportLibraries_jll", "Hwloc_jll", "JLLWrappers", "LazyArtifacts", "Libdl", "MPIPreferences", "TOML", "Zlib_jll"]
-git-tree-sha1 = "fb9be749680dd1283049ee17d96bd0ec611bc50f"
+git-tree-sha1 = "75eceed7df8ebb6af9c18c4ae89c070a99d91b00"
 registries = "General"
 uuid = "fe0851c0-eecd-5654-98d4-656369965a5c"
-version = "5.0.12+0"
+version = "5.0.13+0"
 
 [[deps.OpenSSL]]
 deps = ["BitFlags", "Dates", "MozillaCACerts_jll", "NetworkOptions", "OpenSSL_jll", "Sockets"]
@@ -2207,10 +2207,10 @@ version = "1.3.1"
 
 [[deps.Revise]]
 deps = ["CRC32c", "CodeTracking", "FileWatching", "JuliaInterpreter", "LibGit2", "LoweredCodeUtils", "OrderedCollections", "Preferences", "REPL", "UUIDs"]
-git-tree-sha1 = "82ac67271b84f674fccccbc9f92b106941fb8c65"
+git-tree-sha1 = "177e0fc0e89b18c567e90d04f841a8304b22f097"
 registries = "General"
 uuid = "295af30f-e4ad-537b-8983-00126c2a3abe"
-version = "3.17.1"
+version = "3.17.2"
 weakdeps = ["Distributed"]
 
     [deps.Revise.extensions]
