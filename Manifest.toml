@@ -355,10 +355,10 @@ weakdeps = ["SpecialFunctions"]
 
 [[deps.Colors]]
 deps = ["ColorTypes", "FixedPointNumbers", "LinearAlgebra", "Reexport"]
-git-tree-sha1 = "291665b547f137df070e4dd83e432b5fee8cc4a0"
+git-tree-sha1 = "a633156e74096f90b3b5e833529292b651b5671a"
 registries = "General"
 uuid = "5ae59095-9a9b-59fe-a467-6f913c188581"
-version = "0.13.2"
+version = "0.13.3"
 
 [[deps.CommonSolve]]
 deps = ["PrecompileTools"]
@@ -1283,10 +1283,10 @@ version = "0.15.1"
 
 [[deps.LazyArrays]]
 deps = ["ArrayLayouts", "FillArrays", "LinearAlgebra", "MacroTools", "SparseArrays"]
-git-tree-sha1 = "7e71a69dd8a488926664c5efbea4eb7f73d3e242"
+git-tree-sha1 = "d7ad59724d05e1232f87969a923f9a264b796e5c"
 registries = "General"
 uuid = "5078a376-72f3-5289-bfd5-ec5146d43c02"
-version = "2.14.4"
+version = "2.14.5"
 
     [deps.LazyArrays.extensions]
     LazyArraysBandedMatricesExt = "BandedMatrices"
