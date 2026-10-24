@@ -260,10 +260,10 @@ version = "1.18.8+1"
 
 [[deps.ChainRules]]
 deps = ["Adapt", "ChainRulesCore", "Distributed", "GPUArraysCore", "IrrationalConstants", "LinearAlgebra", "Random", "RealDot", "SparseArrays", "SparseInverseSubset", "Statistics", "StructArrays"]
-git-tree-sha1 = "1ead3389af17a852800ddace32338fd9a9234d12"
+git-tree-sha1 = "5ee2215c78b25908dfd9199127b2c1025b682834"
 registries = "General"
 uuid = "082447d4-558c-5d27-93f4-14fc19e9eca2"
-version = "1.74.2"
+version = "1.74.3"
 
 [[deps.ChainRulesCore]]
 deps = ["LinearAlgebra"]
@@ -1147,10 +1147,10 @@ version = "3.2.0+1"
 
 [[deps.JuliaInterpreter]]
 deps = ["CodeTracking", "InteractiveUtils", "Random"]
-git-tree-sha1 = "210525997a2434caa497655f86d151b1bcad0dce"
+git-tree-sha1 = "cd2354616d4e6e3eaf27c74322971e2967449e6a"
 registries = "General"
 uuid = "aa1ae85d-cabe-5617-a682-6adf51b2e16a"
-version = "0.12.0"
+version = "0.12.1"
 
 [[deps.JuliaNVTXCallbacks_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg"]
@@ -1582,10 +1582,10 @@ version = "1.11.0"
 
 [[deps.MbedTLS]]
 deps = ["Dates", "MbedTLS_jll", "MozillaCACerts_jll", "NetworkOptions", "Random", "Sockets"]
-git-tree-sha1 = "76efaf3f893d6766ff3b3d3bd0a748b4e84f9620"
+git-tree-sha1 = "0e4b139a1f0f0b8c054fcdfd3be5f610cfb8c787"
 registries = "General"
 uuid = "739be429-bea8-5141-9913-cc70e7f3736d"
-version = "1.1.11"
+version = "1.2.0"
 
 [[deps.MbedTLS_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl"]
